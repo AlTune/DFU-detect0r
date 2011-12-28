@@ -1,0 +1,12 @@
+F:\PC Absucherung\dddlite\dddlite\obj\Debug\DFU detect0r.exe
+F:\PC Absucherung\dddlite\dddlite\obj\Debug\DFU detect0r.xml
+F:\PC Absucherung\dddlite\dddlite\obj\Debug\DFU detect0r.pdb
+F:\PC Absucherung\dddlite\dddlite\bin\Debug\DFU detect0r.exe
+F:\PC Absucherung\dddlite\dddlite\bin\Debug\DFU detect0r.pdb
+F:\PC Absucherung\dddlite\dddlite\bin\Debug\DFU detect0r.xml
+F:\PC Absucherung\dddlite\dddlite\obj\Debug\ResolveAssemblyReference.cache
+F:\PC Absucherung\dddlite\dddlite\obj\Debug\DFU_detect0r.about.resources
+F:\PC Absucherung\dddlite\dddlite\obj\Debug\DFU_detect0r.Form1.resources
+F:\PC Absucherung\dddlite\dddlite\obj\Debug\DFU_detect0r.Resources.resources
+F:\PC Absucherung\dddlite\dddlite\obj\Debug\GenerateResource.read.1.tlog
+F:\PC Absucherung\dddlite\dddlite\obj\Debug\GenerateResource.write.1.tlog
